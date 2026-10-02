@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-dc3349c175.io4vlh0.cn/sitemap.xml
